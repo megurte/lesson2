@@ -106,3 +106,10 @@
 4. Пункт
 5. Пункт
 6. Пункт
+
+
+```java
+public static void main(String[] args) {
+    System.out.println("Some text");
+}
+```
